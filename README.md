@@ -1,5 +1,5 @@
 # Learning-Dsa
-This rrepository is collection of The Blogs i write while learniong DSA
+This rrepository is collection of The Blogs I have written while learning DSA
 
 # Start Here
 - [LInked List](https://anmolsinha.hashnode.dev/linked-list)
